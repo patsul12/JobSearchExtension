@@ -11,6 +11,8 @@
   },
 
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "cookies",
+    "http://localhost:3000/*"
   ]
 }
