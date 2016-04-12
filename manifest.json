@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Job Search Tracker Extension",
+  "description": "Allows you to seamlessly push job postings to your JobSearchTracker profile.",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+
+  "permissions": [
+    "activeTab"
+  ]
+}
